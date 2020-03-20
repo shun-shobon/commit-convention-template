@@ -6,6 +6,14 @@
   "author": "shun-shobon <shun.shobon@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "cz": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog-ja"
+    }
+  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
