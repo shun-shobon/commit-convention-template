@@ -1,0 +1,9 @@
+{
+  "name": "commit-convention-template",
+  "version": "0.1.0",
+  "description": "Template for adhering commit convention",
+  "repository": "https://github.com/shun-shobon/commit-convention-template",
+  "author": "shun-shobon <shun.shobon@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
